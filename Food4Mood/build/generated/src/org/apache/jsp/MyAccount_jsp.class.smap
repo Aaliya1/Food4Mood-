@@ -1,0 +1,22 @@
+SMAP
+MyAccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 MyAccount.jsp
+MyAccount.jsp
++ 1 MainLayoutUser.jsp
+MainLayoutUser.jsp
+*L
+1,7:49
+8:56,3
+9,10:59
+19:69,3
+20,10:72
+30:82,3
+31,11:85
+1#1,33:96
+34:129,3
+35,42:132
+41#0,35:173
+*E
